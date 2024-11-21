@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: mail01.nixio.net
+max_age: 604800
